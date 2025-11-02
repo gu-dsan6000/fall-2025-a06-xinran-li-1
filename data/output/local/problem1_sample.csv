@@ -1,0 +1,11 @@
+log_entry,log_level
+17/03/29 10:04:52 INFO executor.Executor: Running task 13.0 in stage 1.0 (TID 14),INFO
+17/03/29 10:04:44 INFO ContainerManagementProtocolProxy: yarn.client.max-cached-nodemanagers-proxies : 0,INFO
+17/03/29 10:03:22 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 5,INFO
+17/03/29 10:09:28 INFO slf4j.Slf4jLogger: Slf4jLogger started,INFO
+17/03/29 10:09:06 INFO storage.BlockManager: BlockManager stopped,INFO
+17/03/29 10:04:44 INFO ExecutorRunnable: Preparing Local resources,INFO
+"17/03/29 10:02:54 INFO spark.MapOutputTrackerWorker: Don't have map outputs for shuffle 1, fetching them",INFO
+"17/03/29 10:03:22 INFO spark.CacheManager: Partition rdd_9_9 not found, computing it",INFO
+17/03/29 10:03:26 INFO executor.Executor: Finished task 17.0 in stage 6.0 (TID 118). 2271 bytes result sent to driver,INFO
+17/03/29 10:11:14 INFO executor.Executor: Running task 8.0 in stage 2.0 (TID 29),INFO
